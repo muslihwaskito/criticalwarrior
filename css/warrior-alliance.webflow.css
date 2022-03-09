@@ -140,7 +140,7 @@ max-width:1240px;
   height: 65px;
   max-width: 380px;
   margin-left: 10px;
-  background-image: url('../fonts/logo.svg');
+  /* background-image: url('../fonts/logo.svg'); */
   background-position: 50% 50%;
   background-size: 98%;
   background-repeat: no-repeat;
@@ -773,7 +773,7 @@ padding:40px;
 
 .box-main {
   position: relative;
-  z-index: 3;
+  z-index: 4;
   width: 100%;
   height: auto;
   max-width: 1440px;
@@ -2112,7 +2112,7 @@ padding:40px;
   height: 55px;
   max-width: 305px;
   margin-bottom: 5px;
-  background-image: url('../images/Warriors-Alliance.png'), url('../images/Mask-Group_2.png');
+  /* background-image: url('../images/Warriors-Alliance.png'), url('../images/Mask-Group_2.png'); */
   background-position: 100% 50%, 0% 50%;
   background-size: auto, auto;
   background-repeat: no-repeat, no-repeat;
